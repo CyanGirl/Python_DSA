@@ -1,5 +1,8 @@
 '''
 This will take a count of nodes to be grouped and then alternately reverse them in a linkedlist
+Example- 1->2->3->4->5->6->None
+         count=2
+Output:  2->1->3->4->6->5->None
 '''
 
 class Node:
